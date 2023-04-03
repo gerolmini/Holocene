@@ -1,4 +1,4 @@
-# Holocene
+# Login test
 
 Automated Testing Project with Selenium WebDriver and JUnit
 
